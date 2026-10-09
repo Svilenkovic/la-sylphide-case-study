@@ -37,10 +37,10 @@ Prvo smo se dogovorili za osvežavanje, ali sam posle pregleda koda predložio p
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 97 | 100 | 100 | 100 |
+| Telefon | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `EducationalOrganization`, `LocalBusiness`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `EducationalOrganization`, `LocalBusiness`.
 
 ## Snimci ekrana
 

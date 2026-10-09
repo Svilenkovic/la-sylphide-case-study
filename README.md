@@ -4,7 +4,7 @@
 
 Site for a Novi Sad ballet school founded in 1991, in Serbian, English and Russian, rewritten in plain PHP from a 2016 WordPress site.
 
-**[ballet-dobrilanovkov.com](https://www.ballet-dobrilanovkov.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/la-sylphide) · [Srpski](README.sr.md)
+**[ballet-dobrilanovkov.com](https://www.ballet-dobrilanovkov.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/la-sylphide) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ We first agreed on a refresh, but after going through the code I proposed a rewr
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 97 | 100 | 100 | 100 |
+| Mobile | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `EducationalOrganization`, `LocalBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `EducationalOrganization`, `LocalBusiness`.
 
 ## Screenshots
 
