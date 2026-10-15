@@ -37,7 +37,7 @@ We first agreed on a refresh, but after going through the code I proposed a rewr
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 99 | 100 | 100 | 100 |
+| Mobile | 93 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. axe accessibility check: no violations. Structured data: `EducationalOrganization`, `LocalBusiness`.
